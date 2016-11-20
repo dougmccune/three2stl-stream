@@ -8,5 +8,9 @@
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/three2stl-stream.git"
+  },
+  "dependencies": {
+    "three": "^0.82.1",
+    "tmp": "0.0.30"
   }
 }
