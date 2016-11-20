@@ -1,0 +1,8 @@
+{
+  "name": "stl-stream-writer",
+  "version": "1.0.0",
+  "description": "Stream THREE.JS geometries to a binary STL file",
+  "main": "stlStreamWriter.js",
+  "author": "Doug McCune",
+  "license": "MIT"
+}
