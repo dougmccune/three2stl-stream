@@ -1,8 +1,12 @@
 {
-  "name": "stl-stream-writer",
+  "name": "three2stl-stream",
   "version": "1.0.0",
   "description": "Stream THREE.JS geometries to a binary STL file",
   "main": "stlStreamWriter.js",
   "author": "Doug McCune",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/three2stl-stream.git"
+  }
 }
